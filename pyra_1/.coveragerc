@@ -1,0 +1,3 @@
+[run]
+source = pyra_1
+omit = pyra_1/test*
